@@ -89,6 +89,11 @@ sudo update-grub
 Нас интересует вторая строка с именем Volume Group. Приступим к переименованию:
 ![image](https://github.com/user-attachments/assets/0446f614-ec8b-4b84-84ce-bba58873351b)
 
+##### Смотрим результат
+
+![image](https://github.com/user-attachments/assets/e86af9c3-9b44-482d-8683-fc79bdb4b260)
+
+
 Далее правим `/boot/grub/grub.cfg`. Везде заменяем старое название VG на новое (в файле дефис меняется на два дефиса ubuntu--vg ubuntu--otus).
 После чего можем перезагружаться и, если все сделано правильно, успешно грузимся с новым именем Volume Group и проверяем:
 
