@@ -67,6 +67,8 @@ sudo update-grub
 ```
 GRUB_TERMINAL=console
 ```
+![image](https://github.com/user-attachments/assets/ae603526-9bbe-44c9-8394-4ccc384a38d7)
+
 
 Сохраните файл и обновите конфигурацию
 ```
