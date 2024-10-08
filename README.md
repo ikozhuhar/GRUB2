@@ -62,10 +62,10 @@ sudo update-grub
 #### 2. [[⬆]](#toc) <a name='availability'>Попасть в систему без пароля несколькими способами</a>
 
 #####  &&&&&&&&&&&&&&&
-```
-sudo pvs
-sudo pvdisplay
-```
+
+![image](https://github.com/user-attachments/assets/0574e83c-526c-4cef-aaa2-4640f9d699fa)
+
+
 #####  &&&&&&&&&&&&&&&&
 ```
 sudo vgs
