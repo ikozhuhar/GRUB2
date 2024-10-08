@@ -16,6 +16,11 @@
 
 Если вы просмотреть конфигурационный файл /boot/grub/grub.cfg то становится понятно, что программа grub-mkconfig собирает воедино вее файлы из каталога /etc/grub.d, настроек из /etc/default/grub и вносит все в общий конфигурационный файл /boot/grub/grub.cfg
 
+#### Настройки файла /etc/default/grub
+ 
+![image](https://github.com/user-attachments/assets/49a1d4dd-ddeb-47a9-a030-4227edd79764)
+
+
 #### 2. [[⬆]](#toc) <a name='entrymenugrub'>Включить отображение меню Grub</a>
 
 #####  Включить отображение меню Grub
