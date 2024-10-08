@@ -54,6 +54,7 @@ GRUB_TERMINAL=console
 sudo update-grub
 ```
 Перезагрузитесь и убедитесь, что GRUB теперь показывает загрузочное меню.  
+
 ![image](https://github.com/user-attachments/assets/ae603526-9bbe-44c9-8394-4ccc384a38d7)
 
 https://winitpro.ru/index.php/2022/08/30/ne-otobrazhaetsya-grub-menyu-pri-zagruzke/
