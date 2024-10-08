@@ -84,7 +84,18 @@ sudo update-grub
 
 #### 3. [[⬆]](#toc) <a name='availability'>Установить систему с LVM, после чего переименовать VG</a>
 
+![image](https://github.com/user-attachments/assets/8c9e9f17-0233-4289-b78d-8b05094dd06d)
 
+Нас интересует вторая строка с именем Volume Group. Приступим к переименованию:
+![image](https://github.com/user-attachments/assets/0446f614-ec8b-4b84-84ce-bba58873351b)
+
+Далее правим `/boot/grub/grub.cfg`. Везде заменяем старое название VG на новое (в файле дефис меняется на два дефиса ubuntu--vg ubuntu--otus).
+После чего можем перезагружаться и, если все сделано правильно, успешно грузимся с новым именем Volume Group и проверяем:
+
+```
+sudo nano /boot/grub/grub.cfg
+```
+![image](https://github.com/user-attachments/assets/e95d35c3-a1ad-4f1b-902e-e856d0496be7)
 
 
 
