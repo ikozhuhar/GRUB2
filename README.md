@@ -57,7 +57,22 @@ sudo update-grub
 
 ![image](https://github.com/user-attachments/assets/ae603526-9bbe-44c9-8394-4ccc384a38d7)
 
-https://winitpro.ru/index.php/2022/08/30/ne-otobrazhaetsya-grub-menyu-pri-zagruzke/
+
+
+#### 2. [[⬆]](#toc) <a name='availability'>Попасть в систему без пароля несколькими способами</a>
+
+#####  &&&&&&&&&&&&&&&
+```
+sudo pvs
+sudo pvdisplay
+```
+#####  &&&&&&&&&&&&&&&&
+```
+sudo vgs
+sudo vgdispaly
+```
+
+????????????????????????????????????????
 
 
 ===============
@@ -89,19 +104,6 @@ normal
 Также работает простое нажатие клавиши `Esc`.
 
 ??????????????????????????????
-
-#### 2. [[⬆]](#toc) <a name='availability'>Попасть в систему без пароля несколькими способами</a>
-
-#####  &&&&&&&&&&&&&&&
-```
-sudo pvs
-sudo pvdisplay
-```
-#####  &&&&&&&&&&&&&&&&
-```
-sudo vgs
-sudo vgdispaly
-```
 
 
 
