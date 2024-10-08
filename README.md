@@ -39,6 +39,8 @@ normal
 sudo nano /etc/default/grub
 GRUB_TIMEOUT=20
 ```
+![image](https://github.com/user-attachments/assets/f1cfc73a-84a9-4e7b-bbc1-fc762660a1a2)
+
 
 Эта опция включает таймаут 20 секунд, которые должен ждать GRUB при загрузки на этапе выбора операционной системы. Убедитесь, что в конфигурационном файле нет строки `GRUB_TIMEOUT=0`
 
@@ -56,6 +58,8 @@ GRUB_TIMEOUT_STYLE=menu
 ```
 sudo update-grub
 ```
+![image](https://github.com/user-attachments/assets/eb5225fd-4b8e-427d-89ce-5b329cd73f59)
+
 
 Перезагрузите компьютер.
 
