@@ -61,16 +61,16 @@ sudo update-grub
 
 #### 2. [[⬆]](#toc) <a name='availability'>Попасть в систему без пароля несколькими способами</a>
 
-#####  &&&&&&&&&&&&&&&
+#####  Способ 1. init=/bin/bash
 
 ![image](https://github.com/user-attachments/assets/0574e83c-526c-4cef-aaa2-4640f9d699fa)
 
 
-#####  &&&&&&&&&&&&&&&&
-```
-sudo vgs
-sudo vgdispaly
-```
+#####  Способ 2. Recovery mode
+Чтобы попасть в консоль GRUB, нужно нажать клавишу `C` во время отображения меню загрузки.
+
+![image](https://github.com/user-attachments/assets/2338bab3-e4fe-4545-b5c4-9ceb4724f036)
+
 
 ????????????????????????????????????????
 
