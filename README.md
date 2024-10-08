@@ -105,4 +105,5 @@ sudo nano /boot/grub/grub.cfg
 1. [GRUB - загрузчик системы](https://help.ubuntu.ru/wiki/grub)
 2. [GRUB консоль. Запускаем Linux](https://www.alexgur.ru/articles/2275/)
 3. [Настройка загрузчика Grub](https://losst.pro/nastrojka-zagruzchika-grub)
-4. Весь Linux Для тех, кто хочет стать профессионалом, стр.311
+4. [https://forum.ubuntu.ru/index.php?topic=74165.0](https://forum.ubuntu.ru/index.php?topic=74165.0) 
+5. Весь Linux Для тех, кто хочет стать профессионалом, стр.311
