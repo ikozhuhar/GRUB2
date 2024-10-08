@@ -40,6 +40,7 @@ GRUB_TIMEOUT_STYLE=menu
 ```
 sudo update-grub
 ```
+![image](https://github.com/user-attachments/assets/eb5225fd-4b8e-427d-89ce-5b329cd73f59)
 
 Перезагрузите компьютер.
 
@@ -47,19 +48,13 @@ sudo update-grub
 ```
 GRUB_TERMINAL=console
 ```
-![image](https://github.com/user-attachments/assets/eb5225fd-4b8e-427d-89ce-5b329cd73f59)
-
-
-
-![image](https://github.com/user-attachments/assets/ae603526-9bbe-44c9-8394-4ccc384a38d7)
-
 
 Сохраните файл и обновите конфигурацию
 ```
 sudo update-grub
 ```
-
 Перезагрузитесь и убедитесь, что GRUB теперь показывает загрузочное меню.
+![image](https://github.com/user-attachments/assets/ae603526-9bbe-44c9-8394-4ccc384a38d7)
 
 https://winitpro.ru/index.php/2022/08/30/ne-otobrazhaetsya-grub-menyu-pri-zagruzke/
 
