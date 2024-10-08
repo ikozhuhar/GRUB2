@@ -69,7 +69,8 @@ sudo update-grub
 #####  Способ 2. Recovery mode
 Чтобы попасть в консоль GRUB, нужно нажать клавишу `C` во время отображения меню загрузки.
 
-![image](https://github.com/user-attachments/assets/b9945a9e-ab85-4ae7-bb73-0f258291600e)
+![image](https://github.com/user-attachments/assets/1eedee3c-86aa-47cf-ac5a-77b820f6f0a3)
+
 
 
 ![image](https://github.com/user-attachments/assets/2338bab3-e4fe-4545-b5c4-9ceb4724f036)
