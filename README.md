@@ -134,11 +134,6 @@ boot
 ```
 
 
-Подробнее - https://www.alexgur.ru/articles/2275/
-
-
-
-
 #### 3. [[⬆]](#toc) <a name='availability'>Установить систему с LVM, после чего переименовать VG</a>
 
 ![image](https://github.com/user-attachments/assets/8c9e9f17-0233-4289-b78d-8b05094dd06d)
@@ -157,11 +152,7 @@ boot
 ```
 sudo nano /boot/grub/grub.cfg
 ```
-![image](https://github.com/user-attachments/assets/e95d35c3-a1ad-4f1b-902e-e856d0496be7)
 ![image](https://github.com/user-attachments/assets/1d2d04c5-fa51-4527-9384-cd271dd113dd)
-
-
-
 
 
 
