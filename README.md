@@ -158,6 +158,9 @@ boot
 sudo nano /boot/grub/grub.cfg
 ```
 ![image](https://github.com/user-attachments/assets/e95d35c3-a1ad-4f1b-902e-e856d0496be7)
+![image](https://github.com/user-attachments/assets/1d2d04c5-fa51-4527-9384-cd271dd113dd)
+
+
 
 
 
