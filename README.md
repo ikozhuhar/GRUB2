@@ -164,6 +164,15 @@ sudo nano /boot/grub/grub.cfg
 ```
 ![image](https://github.com/user-attachments/assets/90a9eed0-15cd-4069-b395-dd882179cf51)
 
+```
+sudo reboot
+```
+![image](https://github.com/user-attachments/assets/5b2b8447-bee7-4f42-9c76-86419619e6cd)  
+
+Итог: Загрузились под новым именем.
+
+
+
 
 #### 4. [[⬆]](#toc) <a name='recommended_sources'>Дополнительные источники</a>
 
