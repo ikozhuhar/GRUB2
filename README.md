@@ -167,7 +167,7 @@ sudo nano /boot/grub/grub.cfg
 ```
 sudo reboot
 ```
-![image](https://github.com/user-attachments/assets/5b2b8447-bee7-4f42-9c76-86419619e6cd)  
+![image](https://github.com/user-attachments/assets/26e276ae-fbb8-4d0e-bc20-091fc06151ca)
 
 Итог: Загрузились под новым именем.
 
