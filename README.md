@@ -98,7 +98,8 @@ sudo update-grub
 ```
 ls (hd1,gpt2)/
 ```
-Перебираем до тех пор, пока не найдём фалы vmlinuz и initrd.img. Верный результат будет выглядеть примерно так:
+Перебираем до тех пор, пока не найдём фалы `vmlinuz` и `initrd.img`. Верный результат будет выглядеть примерно так:  
+
 ![image](https://github.com/user-attachments/assets/5d6c0dad-aba4-4b56-80e9-8cdf51d528d6)
 
 
