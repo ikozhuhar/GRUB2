@@ -149,6 +149,10 @@ sudo vgrename vg0 ubuntu-otos
 
 ##### Смотрим результат
 
+```
+sudo vgs
+```
+
 ![image](https://github.com/user-attachments/assets/d662325a-9bda-4197-a35d-a5d1283eb26d)
 
 
