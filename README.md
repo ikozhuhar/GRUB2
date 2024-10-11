@@ -134,7 +134,7 @@ boot
 
 #### 3. [[⬆]](#toc) <a name='availability'>Установить систему с LVM, после чего переименовать VG</a>
 
-![image](https://github.com/user-attachments/assets/8c9e9f17-0233-4289-b78d-8b05094dd06d)
+![image](https://github.com/user-attachments/assets/c43116a6-b889-4c49-b0b1-408a8960e9dc)
 
 Нас интересует вторая строка с именем Volume Group. Приступим к переименованию:
 ![image](https://github.com/user-attachments/assets/9519a309-80a2-40c2-9b69-4c18a7faaadf)
