@@ -137,7 +137,8 @@ boot
 ![image](https://github.com/user-attachments/assets/8c9e9f17-0233-4289-b78d-8b05094dd06d)
 
 Нас интересует вторая строка с именем Volume Group. Приступим к переименованию:
-![image](https://github.com/user-attachments/assets/0446f614-ec8b-4b84-84ce-bba58873351b)
+![image](https://github.com/user-attachments/assets/9519a309-80a2-40c2-9b69-4c18a7faaadf)
+
 
 ##### Смотрим результат
 
