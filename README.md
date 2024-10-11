@@ -138,7 +138,11 @@ boot
 
 ![image](https://github.com/user-attachments/assets/c43116a6-b889-4c49-b0b1-408a8960e9dc)
 
-Нас интересует вторая строка с именем Volume Group. Приступим к переименованию:  
+Нас интересует вторая строка с именем Volume Group. Приступим к переименованию: 
+```
+sudo vgs
+sudo vgrename vg0 ubuntu-otos
+```
 
 ![image](https://github.com/user-attachments/assets/9519a309-80a2-40c2-9b69-4c18a7faaadf)
 
