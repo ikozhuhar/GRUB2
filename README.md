@@ -170,7 +170,7 @@ sudo reboot
 ```
 ![image](https://github.com/user-attachments/assets/26e276ae-fbb8-4d0e-bc20-091fc06151ca)
 
-Итог: Загрузились под новым именем.
+_В итоге система загрузилась с диска под новым именем._
 
 
 
