@@ -142,7 +142,7 @@ boot
 
 ##### Смотрим результат
 
-![image](https://github.com/user-attachments/assets/e86af9c3-9b44-482d-8683-fc79bdb4b260)
+![image](https://github.com/user-attachments/assets/d662325a-9bda-4197-a35d-a5d1283eb26d)
 
 
 Далее правим `/boot/grub/grub.cfg`. Везде заменяем старое название VG на новое (в файле дефис меняется на два дефиса ubuntu--vg ubuntu--otus).
