@@ -150,8 +150,7 @@ boot
 ```
 sudo nano /boot/grub/grub.cfg
 ```
-![image](https://github.com/user-attachments/assets/1d2d04c5-fa51-4527-9384-cd271dd113dd)
-
+![image](https://github.com/user-attachments/assets/90a9eed0-15cd-4069-b395-dd882179cf51)
 
 
 #### 4. [[⬆]](#toc) <a name='recommended_sources'>Дополнительные источники</a>
